@@ -1,10 +1,8 @@
-# Mash Lightning Book Starter
+# Mash Lightning Book 
 
 <img src="https://uploads-ssl.webflow.com/6113f4faacfcdff6db1e95f4/611405d78ad06bf392d31e13_MASH-Logo%2BMASH-noborder-right-black-black.png" height="100px" width="auto" />
 
 Kick off your project with this Book starter powered by Mash to allow you to easily monetize any book on the web.
-
-Demo: https://mash-lightning-book-starter.liftoff-ka.repl.co
 
 ## Quick start
 
