@@ -8,13 +8,6 @@ Demo: https://mash-lightning-book-starter.liftoff-ka.repl.co
 
 ## Quick start
 
-### Boosting the Repl will most likely be needed to compile the Repl (Boost => Your repl will be 2x faster)
-
-1. Click the Run Button :)
-2. The template by itself will run in development mode. This increases build time
-3. If you want it to run in production mode, press the run command and then create a replit secret called "production" with value set to true. This will skip the build process and directly serve the website using the cache
-4. For every change made to the code when production variable is set to true, you'll have to run the extra command `npm run build`, or change production to false  
-
 
 ## Configuration
 
